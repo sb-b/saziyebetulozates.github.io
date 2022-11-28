@@ -1,11 +1,7 @@
 theme: jekyll-theme-minimal
 author: Şaziye Betül Özateş
 title: Şaziye Betül Özateş
-description: Post-doctoral researcher @ KUIS-AI
+description: Post-doctoral researcher //@ KUIS-AI
 email: "bozates@ku.edu.tr"
 logo: "ozates.png"
-social:
-  - title: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=EAlmj9yYJP0C&hl=en&oi=ao"
-  - title: "Github"
-    url: "https://github.com/sb-b"
+
