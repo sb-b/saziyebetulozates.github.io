@@ -12,6 +12,8 @@
     <![endif]-->
     {% include head-custom.html %}
   <body>
+    <div class="wrapper">
+      <header>
     <div class="masthead"><div class="masthead__inner-wrap">
       <div class="masthead__menu">
         <nav id="site-nav" class="greedy-nav"> 
@@ -25,12 +27,6 @@
         </nav>
       </div>
     </div>
-    <div class="wrapper">
-      <header>
-        <div class="container">
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto"><li class="nav-item"><a class="nav-link" href="/publications.html">Publications</a></li><li class="nav-item"><a class="nav-link" href="https://sb-b.github.io/cv_nov_2022.pdf">CV</a></li></ul>
-       </div></div>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          
         {% if site.logo %}
