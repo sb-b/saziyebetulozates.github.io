@@ -12,13 +12,13 @@ To see my publication record please check out my [Google Scholar profile](https:
 ## Software and Data
 
 #### BOUN Treebank: 
-Extracted from Turkish National Corpus (TNC), BOUN Treebank consists of 9,761 syntactically annotated sentences (121,214 tokens) from five different text types: Biographical texts, national newspapers, instructional texts, popular culture articles, and essays. [treebank](https://tulap.cmpe.boun.edu.tr/repository/xmlui/handle/20.500.12913/33), [paper](https://link.springer.com/article/10.1007/s10579-021-09558-0)
+Extracted from Turkish National Corpus (TNC), BOUN Treebank consists of 9,761 syntactically annotated sentences (121,214 tokens) from five different text types: Biographical texts, national newspapers, instructional texts, popular culture articles, and essays. [treebank](https://tulap.cmpe.boun.edu.tr/repository/xmlui/handle/20.500.12913/33), [paper](https://link.springer.com/article/10.1007/s10579-021-09558-0).
 
 #### IMST Treebank:  
-IMST Treebank consists of 5,635 syntactically annotated sentences collected from daily news reports and novels. [treebank](https://github.com/UniversalDependencies/UD_Turkish-IMST), [paper](https://aclanthology.org/W19-8013.pdf)
+IMST Treebank consists of 5,635 syntactically annotated sentences collected from daily news reports and novels. [treebank](https://github.com/UniversalDependencies/UD_Turkish-IMST), [paper](https://aclanthology.org/W19-8013.pdf).
 
 #### PUD Treebank:
-This is the most updated version of the UD_Turkish-PUD treebank which was originally a part of the Parallel Universal Dependencies (PUD) treebanks created for the CoNLL 2017 shared task on Multilingual Parsing from Raw Text to Universal Dependencies. It consists of 1,000 sentences that were parallel annotated for 18 languages. [treebank](https://github.com/UniversalDependencies/UD_Turkish-PUD), [paper](https://aclanthology.org/W19-4019.pdf)
+This is the most updated version of the UD_Turkish-PUD treebank which was originally a part of the Parallel Universal Dependencies (PUD) treebanks created for the CoNLL 2017 shared task on Multilingual Parsing from Raw Text to Universal Dependencies. It consists of 1,000 sentences that were parallel annotated for 18 languages. [treebank](https://github.com/UniversalDependencies/UD_Turkish-PUD), [paper](https://aclanthology.org/W19-4019.pdf).
 
 #### BOUN-Pars:
 BOUN-Pars is a Turkish dependency parser that creates parse trees of Turkish sentences in CoNLL-U format. It employs an LSTM-based model and uses linguistically oriented rules and morphological information of words. [code](https://github.com/sb-b/BOUN-PARS), [demo](https://tabilab.cmpe.boun.edu.tr/BOUN-PARS/demo.php), [paper](https://ieeexplore.ieee.org/abstract/document/9869804).
