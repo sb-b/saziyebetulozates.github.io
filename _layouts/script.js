@@ -1,3 +1,5 @@
+console.log("JavaScript file is linked correctly!");
+
 document.addEventListener("DOMContentLoaded", function() {
     const profilePic = document.getElementById('profile-pic');
     const originalSrc = profilePic.src; // Automatically uses the config.yml value for current-pic
